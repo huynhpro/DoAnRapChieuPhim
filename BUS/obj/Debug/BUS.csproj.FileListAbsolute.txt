@@ -1,0 +1,15 @@
+D:\CNPM\BUS\bin\Debug\BUS.dll.config
+D:\CNPM\BUS\bin\Debug\BUS.dll
+D:\CNPM\BUS\bin\Debug\BUS.pdb
+D:\CNPM\BUS\bin\Debug\DAL.dll
+D:\CNPM\BUS\bin\Debug\EntityFramework.dll
+D:\CNPM\BUS\bin\Debug\DAL.pdb
+D:\CNPM\BUS\bin\Debug\DAL.dll.config
+D:\CNPM\BUS\bin\Debug\EntityFramework.xml
+D:\CNPM\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CNPM\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CNPM\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CNPM\BUS\obj\Debug\BUS.dll
+D:\CNPM\BUS\obj\Debug\BUS.pdb
+D:\CNPM\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNPM\BUS\bin\Debug\EntityFramework.SqlServer.xml

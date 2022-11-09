@@ -1,0 +1,12 @@
+D:\CNPM\DAL\bin\Debug\DAL.dll.config
+D:\CNPM\DAL\bin\Debug\DAL.dll
+D:\CNPM\DAL\bin\Debug\DAL.pdb
+D:\CNPM\DAL\bin\Debug\EntityFramework.dll
+D:\CNPM\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNPM\DAL\bin\Debug\EntityFramework.xml
+D:\CNPM\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNPM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CNPM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CNPM\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\CNPM\DAL\obj\Debug\DAL.dll
+D:\CNPM\DAL\obj\Debug\DAL.pdb
